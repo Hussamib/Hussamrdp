@@ -33,10 +33,9 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
-name: amazonRDP
-
-on: workflow_dispatch
+          اختبار صدى ، ونشر مشروعك.
+name:Hussamrdp
+تشغيل: workflow_dispatch
 
 jobs:
   build:
